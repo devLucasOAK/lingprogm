@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503320316 source:c:\lingprogm\lingprogm\aula2108ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+
